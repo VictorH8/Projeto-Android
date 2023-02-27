@@ -1,35 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@VictorH8 
-VictorH8
-/
-Projeto-Android
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Projeto-Android/style/style.css
-@VictorH8
-VictorH8 problema corrigido
-Latest commit 4674dbe 22 minutes ago
- History
- 1 contributor
-196 lines (165 sloc)  2.94 KB
-
 @charset "UTF-8";
+
 
 :root {
   --cor0: #c5ebd6;
@@ -39,9 +9,9 @@ Latest commit 4674dbe 22 minutes ago
   --cor4: #1a5c37;
   --cor5: #063d1e;
 
-  --fonte01: idroid, cursive;
-  --fonte02: bebas, cursive;
-  --fonte03: Arial, Helvetica, sans-serif;
+   --fonte01: idroid, cursive;
+   --fonte02: bebas, cursive;
+   --fonte03: Arial, Helvetica, sans-serif;
 }
 
 @font-face {
