@@ -192,6 +192,7 @@ a:hover {
 }
 
 
+
 a.externo::after {
   content: '\1F517';
 }
